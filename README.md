@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @DanielJoe-DJ
+- 👀 I’m interested in full stack development 
+- 🌱 I’m currently learning frontend development 
+- 💞️ I’m looking to collaborate with others on projects 
+- 📫 How to reach me seach on Facebook for Daniel Joe and u'll see a logo "DJ" 
+- 😄 Pronouns: me
+- ⚡ Fun fact: i'd like to learn everything in the tech industry 
+
+<!---
+DanielJoe-DJ/DanielJoe-DJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
