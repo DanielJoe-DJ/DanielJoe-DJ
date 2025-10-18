@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack development 
 - 🌱 I’m currently learning frontend development 
 - 💞️ I’m looking to collaborate with others on projects 
-- 📫 How to reach me seach on Facebook for Daniel Joe and u'll see a logo "DJ" 
+- 📫 How to reach me seach on Facebook for DJ thedev
 - 😄 Pronouns: me
 - ⚡ Fun fact: i'd like to learn everything in the tech industry 
 
